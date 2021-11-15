@@ -4,6 +4,7 @@
 	"description":"Add Description Example on 111521 test",
 	"keywords":["freecodecamp","keyword1","relatedword"],
 	"license":"MIT",
+	"version":"0.0.1",
 	"dependencies": {
 		"express": "^4.17.1"
 	},
