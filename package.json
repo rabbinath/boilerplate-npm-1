@@ -1,8 +1,8 @@
 {
-	"author": "Rabindra Nath",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Rabindra Nath",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.17.1"
 	},
 	"main": "server.js",
 	"scripts": {
