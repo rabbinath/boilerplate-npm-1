@@ -1,2 +1,2 @@
 # Backend Challenges boilerplate - package.json
-[![Run on Repl.it](https://repl.it/badge/github/rabbinath/boilerplate-npm)](https://repl.it/github/rabbinath/boilerplate-npm)
+[![Run on Repl.it](https://repl.it/badge/github/rabbinath/boilerplate-npm-1)](https://repl.it/github/rabbinath/boilerplate-npm-1)
