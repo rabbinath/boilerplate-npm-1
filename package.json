@@ -3,6 +3,7 @@
 	"author": "Rabindra Nath",
 	"description":"Add Description Example on 111521 test",
 	"keywords":["freecodecamp","keyword1","relatedword"],
+	"license":"MIT",
 	"dependencies": {
 		"express": "^4.17.1"
 	},
